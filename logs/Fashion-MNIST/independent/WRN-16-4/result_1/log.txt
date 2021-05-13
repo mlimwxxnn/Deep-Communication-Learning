@@ -1,0 +1,1343 @@
+Epoch:1
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.7915]
+Test_acc_Best: 0.7915
+Use time: 40.59 s
+==================================================
+Epoch:2
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.8378]
+Test_acc_Best: 0.8378
+Use time: 40.1 s
+==================================================
+Epoch:3
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.8654]
+Test_acc_Best: 0.8654
+Use time: 45.04 s
+==================================================
+Epoch:4
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.8831]
+Test_acc_Best: 0.8831
+Use time: 58.27 s
+==================================================
+Epoch:5
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.8721]
+Test_acc_Best: 0.8721
+Use time: 56.12 s
+==================================================
+Epoch:6
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.8832]
+Test_acc_Best: 0.8832
+Use time: 57.86 s
+==================================================
+Epoch:7
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9025]
+Test_acc_Best: 0.9025
+Use time: 55.83 s
+==================================================
+Epoch:8
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9033]
+Test_acc_Best: 0.9033
+Use time: 58.24 s
+==================================================
+Epoch:9
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9073]
+Test_acc_Best: 0.9073
+Use time: 55.8 s
+==================================================
+Epoch:10
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9088]
+Test_acc_Best: 0.9088
+Use time: 55.72 s
+==================================================
+Epoch:11
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9093]
+Test_acc_Best: 0.9093
+Use time: 57.81 s
+==================================================
+test_acc:[0.9018]
+Test_acc_Best: 0.9018
+Use time: 55.36 s
+==================================================
+Epoch:13
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9058]
+Test_acc_Best: 0.9058
+Use time: 57.74 s
+==================================================
+Epoch:14
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9118]
+Test_acc_Best: 0.9118
+Use time: 55.52 s
+==================================================
+Epoch:15
+Acc_max_idx:0
+Loss_min_idx:0
+Test_acc_Best: 0.9057
+Use time: 58.03 s
+==================================================
+test_acc:[0.9114]
+Test_acc_Best: 0.9114
+==================================================
+Epoch:17
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.8901]
+Test_acc_Best: 0.8901
+Use time: 57.87 s
+==================================================
+Epoch:18
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9154]
+Test_acc_Best: 0.9154
+Use time: 54.9 s
+==================================================
+Epoch:19
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9131]
+Test_acc_Best: 0.9131
+Use time: 57.53 s
+==================================================
+Epoch:20
+Acc_max_idx:0
+Loss_min_idx:0
+Test_acc_Best: 0.916
+Use time: 55.56 s
+==================================================
+Epoch:21
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9051]
+Test_acc_Best: 0.9051
+Use time: 55.64 s
+==================================================
+Epoch:22
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9168]
+Test_acc_Best: 0.9168
+Use time: 57.1 s
+==================================================
+Epoch:23
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9204]
+Test_acc_Best: 0.9204
+Use time: 54.87 s
+==================================================
+Epoch:24
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9212]
+Test_acc_Best: 0.9212
+Use time: 57.37 s
+==================================================
+Epoch:25
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9255]
+Test_acc_Best: 0.9255
+Use time: 55.07 s
+==================================================
+Epoch:26
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9248]
+Test_acc_Best: 0.9248
+Use time: 57.13 s
+==================================================
+Epoch:27
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9252]
+Test_acc_Best: 0.9252
+Use time: 55.33 s
+==================================================
+Epoch:28
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9273]
+Test_acc_Best: 0.9273
+Use time: 57.71 s
+==================================================
+Epoch:29
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.926]
+Test_acc_Best: 0.926
+Use time: 54.72 s
+==================================================
+Epoch:30
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9258]
+Test_acc_Best: 0.9258
+Use time: 57.42 s
+==================================================
+Epoch:31
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9237]
+Test_acc_Best: 0.9237
+==================================================
+Epoch:32
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9258]
+Test_acc_Best: 0.9258
+Use time: 58.08 s
+==================================================
+Epoch:33
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9261]
+Use time: 57.99 s
+==================================================
+test_acc:[0.9264]
+Test_acc_Best: 0.9264
+==================================================
+test_acc:[0.927]
+Test_acc_Best: 0.927
+==================================================
+Use time: 55.79 s
+==================================================
+Epoch:37
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9265]
+Test_acc_Best: 0.9265
+Use time: 57.97 s
+==================================================
+Epoch:38
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9255]
+Test_acc_Best: 0.9255
+Use time: 55.75 s
+==================================================
+Epoch:39
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9262]
+Test_acc_Best: 0.9262
+Use time: 58.6 s
+==================================================
+Epoch:40
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9264]
+Test_acc_Best: 0.9264
+Use time: 56.29 s
+==================================================
+Epoch:41
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9264]
+Test_acc_Best: 0.9264
+Use time: 57.86 s
+==================================================
+Epoch:42
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9244]
+Test_acc_Best: 0.9244
+Use time: 55.88 s
+==================================================
+Epoch:43
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9259]
+Test_acc_Best: 0.9259
+Use time: 58.75 s
+==================================================
+Epoch:44
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9253]
+Use time: 56.15 s
+==================================================
+Epoch:45
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9251]
+Test_acc_Best: 0.9251
+Use time: 57.96 s
+==================================================
+Epoch:46
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9248]
+Test_acc_Best: 0.9248
+Use time: 57.19 s
+==================================================
+Epoch:47
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.925]
+Test_acc_Best: 0.925
+Use time: 56.93 s
+==================================================
+Epoch:48
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9246]
+Test_acc_Best: 0.9246
+Use time: 58.24 s
+==================================================
+Epoch:49
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9261]
+Test_acc_Best: 0.9261
+Use time: 56.27 s
+==================================================
+Epoch:50
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9262]
+Test_acc_Best: 0.9262
+Use time: 58.81 s
+==================================================
+Epoch:51
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9255]
+Test_acc_Best: 0.9255
+Use time: 56.03 s
+==================================================
+Epoch:52
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9267]
+Test_acc_Best: 0.9267
+Use time: 58.18 s
+==================================================
+Epoch:53
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9259]
+Test_acc_Best: 0.9259
+Use time: 55.49 s
+==================================================
+Epoch:54
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9265]
+Test_acc_Best: 0.9265
+Use time: 58.34 s
+==================================================
+Epoch:55
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9264]
+Test_acc_Best: 0.9264
+Use time: 56.18 s
+==================================================
+Epoch:56
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9265]
+Test_acc_Best: 0.9265
+Use time: 58.72 s
+==================================================
+Epoch:57
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9266]
+Test_acc_Best: 0.9266
+Use time: 56.27 s
+==================================================
+Epoch:58
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9267]
+Use time: 57.37 s
+==================================================
+Epoch:59
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9255]
+Test_acc_Best: 0.9255
+Use time: 58.49 s
+==================================================
+Epoch:60
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9263]
+Test_acc_Best: 0.9263
+Use time: 56.04 s
+==================================================
+Epoch:61
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.926]
+Test_acc_Best: 0.926
+Use time: 58.28 s
+==================================================
+test_acc:[0.9268]
+Test_acc_Best: 0.9268
+Use time: 55.5 s
+==================================================
+Epoch:63
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9262]
+Test_acc_Best: 0.9262
+Use time: 58.08 s
+==================================================
+Epoch:64
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9268]
+Test_acc_Best: 0.9268
+Use time: 55.87 s
+==================================================
+Epoch:65
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9262]
+Test_acc_Best: 0.9262
+Use time: 58.51 s
+==================================================
+Epoch:66
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9263]
+Test_acc_Best: 0.9263
+Use time: 55.82 s
+==================================================
+Epoch:67
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.926]
+Test_acc_Best: 0.926
+Use time: 58.69 s
+==================================================
+Epoch:68
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9268]
+Test_acc_Best: 0.9268
+Use time: 55.36 s
+==================================================
+Epoch:69
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9252]
+Test_acc_Best: 0.9252
+Use time: 58.17 s
+==================================================
+test_acc:[0.9261]
+Test_acc_Best: 0.9261
+Use time: 55.87 s
+==================================================
+test_acc:[0.9267]
+Use time: 58.99 s
+==================================================
+Epoch:72
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9251]
+Use time: 57.66 s
+==================================================
+test_acc:[0.9259]
+Test_acc_Best: 0.9259
+Use time: 55.73 s
+==================================================
+Epoch:74
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9251]
+Test_acc_Best: 0.9251
+Use time: 58.11 s
+==================================================
+Epoch:75
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9261]
+Test_acc_Best: 0.9261
+Use time: 55.45 s
+==================================================
+Epoch:76
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9262]
+Test_acc_Best: 0.9262
+Use time: 58.34 s
+==================================================
+Epoch:77
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9249]
+Test_acc_Best: 0.9249
+Use time: 55.17 s
+==================================================
+Epoch:78
+Acc_max_idx:0
+Loss_min_idx:0
+                  Test_acc_Best: 0.9247
+Use time: 58.37 s
+==================================================
+Epoch:79
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9256]
+Test_acc_Best: 0.9256
+Use time: 55.43 s
+==================================================
+Epoch:80
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9255]
+Test_acc_Best: 0.9255
+Use time: 57.2 s
+==================================================
+Epoch:81
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9265]
+Test_acc_Best: 0.9265
+Use time: 55.59 s
+==================================================
+Epoch:82
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.926]
+Test_acc_Best: 0.926
+Use time: 57.49 s
+==================================================
+Epoch:83
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9255]
+Test_acc_Best: 0.9255
+Use time: 55.55 s
+==================================================
+Epoch:84
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9267]
+Test_acc_Best: 0.9267
+Use time: 57.62 s
+==================================================
+Epoch:85
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9259]
+Test_acc_Best: 0.9259
+Use time: 55.77 s
+==================================================
+Epoch:86
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9259]
+Test_acc_Best: 0.9259
+Use time: 57.76 s
+==================================================
+Epoch:87
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9269]
+Test_acc_Best: 0.9269
+Use time: 56.28 s
+==================================================
+Epoch:88
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9264]
+Test_acc_Best: 0.9264
+Use time: 57.0 s
+==================================================
+Epoch:89
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9261]
+Test_acc_Best: 0.9261
+Use time: 58.24 s
+==================================================
+Epoch:90
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9258]
+Test_acc_Best: 0.9258
+Use time: 55.34 s
+==================================================
+Epoch:91
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9266]
+Test_acc_Best: 0.9266
+Use time: 57.75 s
+==================================================
+Epoch:92
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9266]
+Test_acc_Best: 0.9266
+Use time: 54.88 s
+==================================================
+Epoch:93
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9266]
+Test_acc_Best: 0.9266
+Use time: 57.86 s
+==================================================
+Epoch:94
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.927]
+Test_acc_Best: 0.927
+Use time: 55.92 s
+==================================================
+Epoch:95
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9251]
+Test_acc_Best: 0.9251
+Use time: 57.35 s
+==================================================
+Epoch:96
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.924]
+Test_acc_Best: 0.924
+Use time: 55.66 s
+==================================================
+Epoch:97
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9252]
+Test_acc_Best: 0.9252
+Use time: 58.27 s
+==================================================
+Epoch:98
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9265]
+Test_acc_Best: 0.9265
+Use time: 55.59 s
+==================================================
+Epoch:99
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9241]
+Test_acc_Best: 0.9241
+Use time: 57.28 s
+==================================================
+Epoch:100
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9263]
+Test_acc_Best: 0.9263
+Use time: 54.06 s
+==================================================
+Epoch:101
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9251]
+Test_acc_Best: 0.9251
+Use time: 57.23 s
+==================================================
+Epoch:102
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9269]
+Test_acc_Best: 0.9269
+Use time: 55.4 s
+==================================================
+Epoch:103
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.927]
+Test_acc_Best: 0.927
+Use time: 56.61 s
+==================================================
+Epoch:104
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9265]
+Test_acc_Best: 0.9265
+Use time: 56.61 s
+==================================================
+Epoch:105
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.926]
+Test_acc_Best: 0.926
+Use time: 55.18 s
+==================================================
+Epoch:106
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9253]
+Test_acc_Best: 0.9253
+Use time: 57.03 s
+==================================================
+Epoch:107
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.926]
+Test_acc_Best: 0.926
+Use time: 53.7 s
+==================================================
+Epoch:108
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9252]
+Test_acc_Best: 0.9252
+Use time: 56.73 s
+==================================================
+Epoch:109
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9266]
+Test_acc_Best: 0.9266
+Use time: 53.84 s
+==================================================
+Epoch:110
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9254]
+Test_acc_Best: 0.9254
+Use time: 56.59 s
+==================================================
+Epoch:111
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9255]
+Test_acc_Best: 0.9255
+Use time: 54.65 s
+==================================================
+Epoch:112
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9254]
+Test_acc_Best: 0.9254
+Use time: 57.19 s
+==================================================
+Epoch:113
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9261]
+Test_acc_Best: 0.9261
+Use time: 54.36 s
+==================================================
+Epoch:114
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9249]
+Test_acc_Best: 0.9249
+Use time: 57.22 s
+==================================================
+Epoch:115
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9262]
+Test_acc_Best: 0.9262
+Use time: 54.26 s
+==================================================
+Epoch:116
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9255]
+Test_acc_Best: 0.9255
+Use time: 55.94 s
+==================================================
+Epoch:117
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9259]
+Test_acc_Best: 0.9259
+Use time: 55.69 s
+==================================================
+Epoch:118
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9272]
+Test_acc_Best: 0.9272
+Use time: 55.12 s
+==================================================
+test_acc:[0.9261]
+Test_acc_Best: 0.9261
+Use time: 56.74 s
+==================================================
+Epoch:120
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9251]
+Test_acc_Best: 0.9251
+Use time: 55.04 s
+==================================================
+Epoch:121
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9256]
+Test_acc_Best: 0.9256
+Use time: 57.12 s
+==================================================
+Epoch:122
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9257]
+Test_acc_Best: 0.9257
+Use time: 54.62 s
+==================================================
+Epoch:123
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9259]
+Test_acc_Best: 0.9259
+Use time: 56.49 s
+==================================================
+Epoch:124
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9259]
+Test_acc_Best: 0.9259
+Use time: 54.13 s
+==================================================
+Epoch:125
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9267]
+Test_acc_Best: 0.9267
+Use time: 57.36 s
+==================================================
+Epoch:126
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9261]
+Use time: 55.81 s
+==================================================
+Epoch:127
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9259]
+Test_acc_Best: 0.9259
+Use time: 57.93 s
+==================================================
+Epoch:128
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9257]
+Test_acc_Best: 0.9257
+Use time: 54.71 s
+==================================================
+Epoch:129
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9251]
+Test_acc_Best: 0.9251
+Use time: 56.94 s
+==================================================
+Epoch:130
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9254]
+Test_acc_Best: 0.9254
+Use time: 54.64 s
+==================================================
+Epoch:131
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9258]
+Test_acc_Best: 0.9258
+Use time: 56.57 s
+==================================================
+Epoch:132
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9254]
+Test_acc_Best: 0.9254
+Use time: 55.18 s
+==================================================
+Epoch:133
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9254]
+Test_acc_Best: 0.9254
+Use time: 54.94 s
+==================================================
+Epoch:134
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9261]
+Test_acc_Best: 0.9261
+Use time: 56.78 s
+==================================================
+Epoch:135
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9254]
+Test_acc_Best: 0.9254
+Use time: 54.41 s
+==================================================
+Epoch:136
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9266]
+Test_acc_Best: 0.9266
+Use time: 57.04 s
+==================================================
+Epoch:137
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9248]
+Test_acc_Best: 0.9248
+Use time: 54.24 s
+==================================================
+Epoch:138
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9257]
+Test_acc_Best: 0.9257
+Use time: 57.75 s
+==================================================
+Epoch:139
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9252]
+Test_acc_Best: 0.9252
+Use time: 54.53 s
+==================================================
+Epoch:140
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9259]
+Test_acc_Best: 0.9259
+Use time: 56.93 s
+==================================================
+Epoch:141
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9257]
+Test_acc_Best: 0.9257
+Use time: 54.63 s
+==================================================
+Epoch:142
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9266]
+Test_acc_Best: 0.9266
+Use time: 57.27 s
+==================================================
+Epoch:143
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9248]
+Test_acc_Best: 0.9248
+Use time: 54.28 s
+==================================================
+Epoch:144
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9256]
+Test_acc_Best: 0.9256
+Use time: 57.2 s
+==================================================
+Epoch:145
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.926]
+Test_acc_Best: 0.926
+Use time: 56.4 s
+==================================================
+Epoch:146
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9258]
+Test_acc_Best: 0.9258
+Use time: 54.87 s
+==================================================
+Epoch:147
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9253]
+Test_acc_Best: 0.9253
+Use time: 57.14 s
+==================================================
+Epoch:148
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9257]
+Test_acc_Best: 0.9257
+Use time: 54.89 s
+==================================================
+Epoch:149
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9257]
+Test_acc_Best: 0.9257
+Use time: 57.1 s
+==================================================
+Epoch:150
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9259]
+Test_acc_Best: 0.9259
+Use time: 54.58 s
+==================================================
+Epoch:151
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9252]
+Test_acc_Best: 0.9252
+Use time: 57.52 s
+==================================================
+Epoch:152
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9255]
+Test_acc_Best: 0.9255
+Use time: 54.81 s
+==================================================
+Epoch:153
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.925]
+Test_acc_Best: 0.925
+Use time: 58.11 s
+==================================================
+Epoch:154
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9254]
+Test_acc_Best: 0.9254
+Use time: 55.46 s
+==================================================
+Epoch:155
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9262]
+Test_acc_Best: 0.9262
+Use time: 57.87 s
+==================================================
+Epoch:156
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9255]
+Test_acc_Best: 0.9255
+Use time: 55.27 s
+==================================================
+Epoch:157
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9244]
+Test_acc_Best: 0.9244
+Use time: 57.87 s
+==================================================
+Epoch:158
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.926]
+Test_acc_Best: 0.926
+Use time: 55.48 s
+==================================================
+Epoch:159
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9268]
+Test_acc_Best: 0.9268
+Use time: 57.25 s
+==================================================
+Epoch:160
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9266]
+Test_acc_Best: 0.9266
+Use time: 56.71 s
+==================================================
+Epoch:161
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9248]
+Test_acc_Best: 0.9248
+Use time: 56.68 s
+==================================================
+Epoch:162
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.926]
+Test_acc_Best: 0.926
+Use time: 57.08 s
+==================================================
+Epoch:163
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9259]
+Test_acc_Best: 0.9259
+Use time: 56.64 s
+==================================================
+Epoch:164
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9259]
+Test_acc_Best: 0.9259
+Use time: 57.34 s
+==================================================
+Epoch:165
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9252]
+Test_acc_Best: 0.9252
+Use time: 54.81 s
+==================================================
+Epoch:166
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9256]
+Test_acc_Best: 0.9256
+Use time: 57.77 s
+==================================================
+Epoch:167
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9267]
+Test_acc_Best: 0.9267
+Use time: 55.77 s
+==================================================
+Epoch:168
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.926]
+Test_acc_Best: 0.926
+Use time: 57.43 s
+==================================================
+Epoch:169
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9253]
+Test_acc_Best: 0.9253
+Use time: 55.29 s
+==================================================
+Epoch:170
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9258]
+Test_acc_Best: 0.9258
+Use time: 57.83 s
+==================================================
+Epoch:171
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9256]
+Test_acc_Best: 0.9256
+Use time: 55.52 s
+==================================================
+Epoch:172
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9245]
+Test_acc_Best: 0.9245
+Use time: 57.79 s
+==================================================
+Epoch:173
+Acc_max_idx:0
+Loss_min_idx:0
+Test_acc_Best: 0.9257
+==================================================
+Epoch:174
+Acc_max_idx:0
+Loss_min_idx:0
+Test_acc_Best: 0.9263
+==================================================
+Epoch:175
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9263]
+Test_acc_Best: 0.9263
+Use time: 54.98 s
+==================================================
+Epoch:176
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9257]
+Test_acc_Best: 0.9257
+Use time: 57.94 s
+==================================================
+Epoch:177
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9246]
+Test_acc_Best: 0.9246
+Use time: 55.29 s
+==================================================
+Epoch:178
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9254]
+Test_acc_Best: 0.9254
+Use time: 58.01 s
+==================================================
+Epoch:179
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.925]
+Test_acc_Best: 0.925
+Use time: 56.23 s
+==================================================
+Epoch:180
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9257]
+Test_acc_Best: 0.9257
+Use time: 57.92 s
+==================================================
+Epoch:181
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9259]
+Test_acc_Best: 0.9259
+Use time: 55.16 s
+==================================================
+Epoch:182
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9251]
+Test_acc_Best: 0.9251
+Use time: 57.7 s
+==================================================
+Epoch:183
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9248]
+Test_acc_Best: 0.9248
+Use time: 55.74 s
+==================================================
+Epoch:184
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9259]
+Test_acc_Best: 0.9259
+Use time: 56.52 s
+==================================================
+Epoch:185
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9256]
+Test_acc_Best: 0.9256
+Use time: 57.96 s
+==================================================
+Epoch:186
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9257]
+Test_acc_Best: 0.9257
+Use time: 55.62 s
+==================================================
+Epoch:187
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9263]
+Test_acc_Best: 0.9263
+Use time: 57.97 s
+==================================================
+Epoch:188
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9265]
+Test_acc_Best: 0.9265
+Use time: 55.16 s
+==================================================
+Epoch:189
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9261]
+Test_acc_Best: 0.9261
+Use time: 58.11 s
+==================================================
+Epoch:190
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9269]
+Test_acc_Best: 0.9269
+Use time: 56.13 s
+==================================================
+Epoch:191
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9253]
+Test_acc_Best: 0.9253
+Use time: 57.93 s
+==================================================
+Epoch:192
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9256]
+Test_acc_Best: 0.9256
+Use time: 57.14 s
+==================================================
+Epoch:193
+Acc_max_idx:0
+Loss_min_idx:0
+Test_acc_Best: 0.9267
+Use time: 58.84 s
+==================================================
+Epoch:194
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9251]
+Test_acc_Best: 0.9251
+Use time: 57.87 s
+==================================================
+test_acc:[0.9268]
+Test_acc_Best: 0.9268
+Use time: 58.91 s
+==================================================
+Epoch:196
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9258]
+Test_acc_Best: 0.9258
+Use time: 56.9 s
+==================================================
+test_acc:[0.9258]
+Test_acc_Best: 0.9258
+==================================================
+Epoch:198
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9266]
+Test_acc_Best: 0.9266
+Use time: 58.78 s
+==================================================
+Epoch:199
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9264]
+Test_acc_Best: 0.9264
+Use time: 56.69 s
+==================================================
+Epoch:200
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.9249]
+Test_acc_Best: 0.9249
+Use time: 59.15 s
+==================================================

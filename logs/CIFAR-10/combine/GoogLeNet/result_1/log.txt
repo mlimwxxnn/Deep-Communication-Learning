@@ -1,0 +1,7 @@
+Epoch:1
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.3349, 0.3191]
+Test_acc_Best: 0.3349
+Use time: 80.61 s
+==================================================

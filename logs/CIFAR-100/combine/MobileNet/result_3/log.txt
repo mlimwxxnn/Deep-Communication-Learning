@@ -1,0 +1,91 @@
+Epoch:1
+Acc_max_idx:1
+Loss_min_idx:0
+test_acc:[0.4595, 0.4598]
+Test_acc_Best: 0.4598
+Use time: 66.7 s
+==================================================
+Epoch:2
+Acc_max_idx:0
+Loss_min_idx:1
+test_acc:[0.5688, 0.5687]
+Test_acc_Best: 0.5688
+Use time: 61.87 s
+==================================================
+Epoch:3
+Acc_max_idx:1
+Loss_min_idx:0
+test_acc:[0.6169, 0.6173]
+Test_acc_Best: 0.6173
+Use time: 55.87 s
+==================================================
+Epoch:4
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.6456, 0.645]
+Test_acc_Best: 0.6456
+Use time: 56.13 s
+==================================================
+Epoch:5
+Acc_max_idx:0
+Loss_min_idx:1
+test_acc:[0.6558, 0.6542]
+Test_acc_Best: 0.6558
+Use time: 58.22 s
+==================================================
+Epoch:6
+Acc_max_idx:1
+Loss_min_idx:0
+test_acc:[0.6709, 0.6728]
+Test_acc_Best: 0.6728
+Use time: 58.14 s
+==================================================
+Epoch:7
+Acc_max_idx:1
+Loss_min_idx:1
+test_acc:[0.681, 0.6821]
+Test_acc_Best: 0.6821
+Use time: 58.0 s
+==================================================
+Epoch:8
+Acc_max_idx:0
+Loss_min_idx:1
+test_acc:[0.6863, 0.6851]
+Test_acc_Best: 0.6863
+Use time: 64.7 s
+==================================================
+Epoch:9
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.6969, 0.6967]
+Test_acc_Best: 0.6969
+Use time: 60.75 s
+==================================================
+Epoch:10
+Acc_max_idx:1
+Loss_min_idx:0
+test_acc:[0.701, 0.7014]
+Test_acc_Best: 0.7014
+Use time: 64.54 s
+==================================================
+Epoch:11
+Acc_max_idx:1
+Loss_min_idx:0
+test_acc:[0.7037, 0.7061]
+Test_acc_Best: 0.7061
+Use time: 58.28 s
+==================================================
+Epoch:12
+Acc_max_idx:1
+Loss_min_idx:1
+test_acc:[0.713, 0.7139]
+Test_acc_Best: 0.7139
+Use time: 67.79 s
+==================================================
+Epoch:13
+Acc_max_idx:0
+Loss_min_idx:1
+test_acc:[0.714, 0.7112]
+Test_acc_Best: 0.714
+Use time: 60.57 s
+==================================================

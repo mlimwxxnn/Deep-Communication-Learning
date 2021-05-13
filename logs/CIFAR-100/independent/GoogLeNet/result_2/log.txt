@@ -1,0 +1,119 @@
+Epoch:1
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.1167]
+Test_acc_Best: 0.1167
+Use time: 147.93 s
+==================================================
+Epoch:2
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.1995]
+Test_acc_Best: 0.1995
+Use time: 149.04 s
+==================================================
+Epoch:3
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.2645]
+Test_acc_Best: 0.2645
+Use time: 148.59 s
+==================================================
+Epoch:4
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.3273]
+Test_acc_Best: 0.3273
+Use time: 149.39 s
+==================================================
+Epoch:5
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.3828]
+Test_acc_Best: 0.3828
+Use time: 149.01 s
+==================================================
+Epoch:6
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.4326]
+Test_acc_Best: 0.4326
+Use time: 148.44 s
+==================================================
+Epoch:7
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.4765]
+Test_acc_Best: 0.4765
+Use time: 147.81 s
+==================================================
+Epoch:8
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.515]
+Test_acc_Best: 0.515
+Use time: 148.68 s
+==================================================
+Epoch:9
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.5432]
+Test_acc_Best: 0.5432
+Use time: 149.14 s
+==================================================
+Epoch:10
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.5674]
+Test_acc_Best: 0.5674
+Use time: 149.54 s
+==================================================
+Epoch:11
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.5847]
+Test_acc_Best: 0.5847
+Use time: 148.46 s
+==================================================
+Epoch:12
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.6073]
+Test_acc_Best: 0.6073
+Use time: 147.97 s
+==================================================
+Epoch:13
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.6218]
+Test_acc_Best: 0.6218
+Use time: 148.57 s
+==================================================
+Epoch:14
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.6367]
+Test_acc_Best: 0.6367
+Use time: 147.88 s
+==================================================
+Epoch:15
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.6469]
+Test_acc_Best: 0.6469
+Use time: 148.56 s
+==================================================
+Epoch:16
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.6557]
+Test_acc_Best: 0.6557
+Use time: 148.29 s
+==================================================
+Epoch:17
+Acc_max_idx:0
+Loss_min_idx:0
+test_acc:[0.6649]
+Test_acc_Best: 0.6649
+Use time: 148.23 s
+==================================================
