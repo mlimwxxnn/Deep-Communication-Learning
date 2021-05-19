@@ -55,6 +55,7 @@ example:
 2. Train DenseNet-121 by Independent Learning on dataset CIFAR-100  
     The steps are almost the same as above, except that you need to change 
     `is_communicate = True` to `is_communicate = False`.  
+    
 The logs of the training process will be saved in the [logs](logs) folder.
 
 ## Result
