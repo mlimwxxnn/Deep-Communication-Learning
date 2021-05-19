@@ -41,7 +41,7 @@ example:
     individually_train_batch_size = 10
     epochs = 200
     lr_init = 0.001
-    batch_size = 5
+    batch_size = 128
     weight_decay = 5e-4
     ;optional: Adam, SGD
     optimizer = SGD
