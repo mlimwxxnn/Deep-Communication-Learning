@@ -24,7 +24,7 @@ You will need to specify the network and dataset you want to train and test by m
 
 
 example:
-1. Train DenseNet-121 with DCL on dataset CIFAR-100  
+1. Train DenseNet-121 by DCL on dataset CIFAR-100  
     The contents of the [config.ini](config.ini) file are as follows:
     ```
     [train]
@@ -52,10 +52,10 @@ example:
     $ python train.py
     ```
 
-2. Train DenseNet-121 with DCL on dataset CIFAR-100  
+2. Train DenseNet-121 by Independent Learning on dataset CIFAR-100  
     The steps are almost the same as above, except that you need to change 
     `is_communicate = True` to `is_communicate = False`.  
-The logs of the program runs will be saved in the [logs](logs) folder.
+The logs of the training process will be saved in the [logs](logs) folder.
 
 ## Result
 
